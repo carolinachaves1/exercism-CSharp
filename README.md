@@ -6,7 +6,7 @@ Repositório para armazenar soluções dos exercícios desenvolvidos na trilha d
 Este repositório tem como objetivo acompanhar a prática de programação em C#, registrando os exercícios resolvidos, experimentos de código e aprendizados adquiridos ao longo da jornada no Exercism.
 
 ## Progresso
-🟢🟢🟢🟢⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪  
+🟢🟢🟢🟢🟢🟢⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪  
 ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪  
 ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪  
 ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪  
@@ -17,7 +17,7 @@ Este repositório tem como objetivo acompanhar a prática de programação em C#
 ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪  
 
 Legenda:  
-🟢 Concluído: **4**  
+🟢 Concluído: **6**  
 ⚪ Não iniciado: **171**
 
 ## 📌 Referências
